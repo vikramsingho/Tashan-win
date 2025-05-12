@@ -60,3 +60,4 @@ footer {
     text-align: center;
     padding: 10px;
 }
+https://t.me/TASHANVIPPREDICTOMN
